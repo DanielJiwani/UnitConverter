@@ -1,2 +1,2 @@
 # UnitConverter
-A Unit Convertor on iOS using Swift 4
+A Unit Converter on iOS using Swift 4
